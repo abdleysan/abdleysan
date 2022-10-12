@@ -1,6 +1,6 @@
 
 
-### Hi there 👋
+## Hi there 👋
 ## I'm a junior QA. 
 ##   
 ## My CV
