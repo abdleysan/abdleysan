@@ -20,7 +20,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/abdleysan/Homework_QA-stepik-/tree/abdleysan-checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Test-Suites and Test-Cases](https://github.com/abdleysan/Homework_QA-stepik-/tree/test-cases)
 - [Bug-Reports](bug-reports)
 - [SQL Queries](SQL)
 - [Postman Collections](postman)
