@@ -3,7 +3,7 @@
 ## Hi there 👋
 ## I'm a junior QA. 
 ## My CV
-[Link to my CV](https://drive.google.com//)
+[Link to my CV](https://drive.google.com/file/d/17K1NbS6wpX0DIZKGUjDHEB4DQsS9B5Hm/view?usp=sharing)
 
 
 
