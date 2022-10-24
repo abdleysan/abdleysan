@@ -19,7 +19,7 @@
 
 ### Python Projects
 
-- [Python mini-rojects]()
+- [Python mini-rojects](https://github.com/abdleysan/Python-mini-project)
 
 ### Testing Documentation
 
