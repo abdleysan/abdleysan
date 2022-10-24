@@ -3,7 +3,7 @@
 ## Hi there 👋
 ## I'm beginner Python developer and junior QA. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/17K1NbS6wpX0DIZKGUjDHEB4DQsS9B5Hm/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/15oroEtzj__vG-3uOmsj88noYWqmef6x2/view?usp=sharing)
 
 
 
