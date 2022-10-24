@@ -17,6 +17,9 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 
+### Python Projects
+
+- [Python mini-rojects]()
 
 ### Testing Documentation
 
