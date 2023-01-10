@@ -20,6 +20,7 @@
 ### Python Projects
 
 - [Python mini-rojects](https://github.com/abdleysan/Python-mini-project)
+- [Telegram Bots](https://github.com/abdleysan/Telegram-Bot)
 
 ### Testing Documentation
 
