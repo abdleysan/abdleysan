@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋
-## I'm beginner Python developer and junior QA. 
+## I'm junior QA. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/15oroEtzj__vG-3uOmsj88noYWqmef6x2/view?usp=sharing)
 
