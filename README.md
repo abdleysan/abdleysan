@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋
-## I'm junior QA. 
+## I'm QA engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1dmQD0yS89LvWalTkBBzCA9Z4Ngbq2GwQ/view?usp=sharing)
 
